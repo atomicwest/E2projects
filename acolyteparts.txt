@@ -1,0 +1,5 @@
+1. DC servo motor; rating mA, 6.5 g-cm torque
+  x2?
+2. white LED 2500 mcd
+3. pvc mask
+ 
