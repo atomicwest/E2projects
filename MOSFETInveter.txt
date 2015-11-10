@@ -1,6 +1,6 @@
  
 
-* CMOS INVERTER
+* CMOS INVERTER https://courseware.ee.calpoly.edu/~dbraun/courses/ee307/F02/02_Shelley/Section2_BasilShelley.htm
 VDD 1 0 5
 VIN 2 0
 MQ1 1 2 3 1 PMOD1
